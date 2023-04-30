@@ -7,6 +7,5 @@
   <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
 </div> 
 
-**Demo:** <span >https://anysofronova.github.io/react-travel-website/</span>  
 
 ![img](https://i.postimg.cc/dtS47Y2C/2022-05-05-18-03-09.png)
